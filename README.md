@@ -74,4 +74,4 @@ Mejora visual con frameworks modernos
 
 
 Germán Rivera
-Desarrollador backend en formación | Python | Data Engineering 🚀
+Desarrollador backend en formación | Python | Data Engineering 
