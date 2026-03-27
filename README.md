@@ -1,4 +1,4 @@
-#🧾 Sistema de Facturación para Restaurante (Python + Tkinter)
+# Sistema de Facturación para Restaurante (Python + Tkinter)
 
 Aplicación de escritorio desarrollada en Python que simula un sistema de facturación para un restaurante.
 Permite seleccionar productos, calcular costos automáticamente, generar recibos y guardarlos como archivo.
