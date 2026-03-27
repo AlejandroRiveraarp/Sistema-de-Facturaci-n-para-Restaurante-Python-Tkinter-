@@ -7,8 +7,7 @@ Permite seleccionar productos, calcular costos automáticamente, generar recibos
 
 ✅ Selección de productos (comida, bebidas y postres)
 ✅ Ingreso de cantidades dinámico
-![App](imagenes/Sistema-de-Facturaci-n-para-Restaurante-Python-Tkinter-
-.png)
+![App](imagenes/sistema_de_facturacion/1.presionamos_productos.png)
 ✅ Cálculo automático de:
 
 Subtotal
